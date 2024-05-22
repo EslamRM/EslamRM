@@ -21,9 +21,6 @@ I'm a passionate Software Developer specializing in JavaScript and Python, with 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-## GitHub Stats
-
-![Eslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EslamRM&show_icons=true&theme=dark)
 
 
 ## Connect with Me
