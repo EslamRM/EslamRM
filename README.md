@@ -1,5 +1,4 @@
 # Hi there, I'm Eslam Ramadan 👋
-![Profile Banner](url-to-your-banner-image)
 
 I'm a passionate Software Developer specializing in JavaScript and Python, with strong expertise in frameworks like Vue and Django. I enjoy creating efficient and innovative web applications that solve real-world problems. 
 
