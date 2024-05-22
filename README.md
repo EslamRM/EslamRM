@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Eslam Ramadan 👋
 
-<!--
-**EslamRM/EslamRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Developer specializing in JavaScript and Python, with strong expertise in frameworks like Vue and Django. I enjoy creating efficient and innovative web applications that solve real-world problems. 
 
-Here are some ideas to get you started:
+## 🛠 Skills and Technologies
+- **Languages**: JavaScript, Python
+- **Frameworks**: Vue, Django
+- **Tools**: Docker, Git, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [companies-guide](https://github.com/EslamRM/companies-guide): A Vue application for managing company profiles (vue/nuxt).
+- [go-store](https://github.com/EslamRM/go-store): A Full stack project for an online store (django/vue).
+- [blango](https://github.com/EslamRM/blango): A Python project for a blogging platform (django).
+
+## 📫 Contact Me
+- LinkedIn: [Eslam Ramadan](https://www.linkedin.com/in/eslam-ramadan-eslamrm)
+- Email: eslam4523@gmail.com
+
+## 🌱 Fun Facts
+- I'm an avid hiker and love exploring new trails.
+- I enjoy playing chess and participating in local tournaments.
