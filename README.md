@@ -1,4 +1,5 @@
 # Hi there, I'm Eslam Ramadan 👋
+![Profile Banner](url-to-your-banner-image)
 
 I'm a passionate Software Developer specializing in JavaScript and Python, with strong expertise in frameworks like Vue and Django. I enjoy creating efficient and innovative web applications that solve real-world problems. 
 
@@ -12,7 +13,21 @@ I'm a passionate Software Developer specializing in JavaScript and Python, with 
 - [go-store](https://github.com/EslamRM/go-store): A Full stack project for an online store (django/vue).
 - [blango](https://github.com/EslamRM/blango): A Python project for a blogging platform (django).
 
-## 📫 Contact Me
-- LinkedIn: [Eslam Ramadan](https://www.linkedin.com/in/eslam-ramadan-eslamrm)
-- Email: eslam4523@gmail.com
+
+## Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+## GitHub Stats
+
+![Eslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EslamRM&show_icons=true&theme=dark)
+
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/eslam-ramadan-eslamrm/)
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](eslam4523@gmail.com)
 
