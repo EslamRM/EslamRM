@@ -16,6 +16,3 @@ I'm a passionate Software Developer specializing in JavaScript and Python, with 
 - LinkedIn: [Eslam Ramadan](https://www.linkedin.com/in/eslam-ramadan-eslamrm)
 - Email: eslam4523@gmail.com
 
-## 🌱 Fun Facts
-- I'm an avid hiker and love exploring new trails.
-- I enjoy playing chess and participating in local tournaments.
