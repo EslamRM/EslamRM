@@ -7,12 +7,6 @@ I'm a passionate Software Developer specializing in JavaScript and Python, with 
 - **Frameworks**: Vue, Django
 - **Tools**: Docker, Git, CI/CD
 
-## 🚀 Projects
-- [companies-guide](https://github.com/EslamRM/companies-guide): A Vue application for managing company profiles (vue/nuxt).
-- [go-store](https://github.com/EslamRM/go-store): A Full stack project for an online store (django/vue).
-- [blango](https://github.com/EslamRM/blango): A Python project for a blogging platform (django).
-
-
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
